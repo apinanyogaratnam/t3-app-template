@@ -30,3 +30,4 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 ## Links
 1. https://squaremyimage.com (this will make your image square)
 2. https://favicon.io/favicon-converter (this will make your image a favicon)
+3. https://pixlr.com/x/#editor (editing images)
