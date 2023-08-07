@@ -1,3 +1,8 @@
+- need to add eslint rules
+- prettier rules
+- makefile commands
+- comment env stuff like prisma
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
